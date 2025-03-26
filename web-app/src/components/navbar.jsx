@@ -57,8 +57,8 @@ const navbar = () => {
                             </ul>
                         </div>
 
-                        <div>
-                            <li className="nav-item" style={{ width: "170%" }}>
+                        <div className='profile'>
+                            <li className="nav-item" >
                                 <a className="nav-link text-center" href="#">Abhinav Guarav <span className="drop-down-icon"><i className="bi bi-chevron-down"></i></span></a>
                                 <ul className="dropdown-menu">
                                     <li>Option 1</li>
