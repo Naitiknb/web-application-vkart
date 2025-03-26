@@ -15,7 +15,7 @@ const navbar = () => {
                         <span className="navbar-toggler-icon"></span>
                     </button>
 
-                    <div className='d-flex justify-content-around'>
+                    <div className='d-flex justify-content-between'>
 
 
 
@@ -57,7 +57,7 @@ const navbar = () => {
                             </ul>
                         </div>
 
-                        <div className='profile'>
+                        <div className='profile mx-5'>
                             <li className="nav-item" >
                                 <a className="nav-link text-center" href="#">Abhinav Guarav <span className="drop-down-icon"><i className="bi bi-chevron-down"></i></span></a>
                                 <ul className="dropdown-menu">
